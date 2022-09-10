@@ -2,8 +2,8 @@
 layout: "../layouts/BlogPost.astro"
 title: "About Me"
 description: "About me"
-updatedDate: "August 22 2022"
+updatedDate: "September 10 2022"
 # heroImage: ""
 ---
 
-I'll fill this in later.
+Hey, I am a professional software developer
